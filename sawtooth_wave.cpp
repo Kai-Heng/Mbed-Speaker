@@ -11,8 +11,6 @@ AnalogIn ain1(AIN1);
 AnalogIn ain2(AIN2);
 
 
-//Write your code here
-
 //Define variables
 /*----------------------------------------------------------------------------
  MAIN function
